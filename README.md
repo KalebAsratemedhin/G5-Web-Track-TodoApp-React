@@ -12,3 +12,16 @@ In this project I have used typescript to harness its static type checking capab
   npm install
   npm run dev
 ```
+
+## Add a todo
+![alt text](<images/Screenshot from 2024-08-07 23-07-21.png>)
+![alt text](<images/Screenshot from 2024-08-07 23-07-36.png>)
+
+## Edit a todo
+![alt text](<images/Screenshot from 2024-08-07 23-07-57.png>)
+![alt text](<images/Screenshot from 2024-08-07 23-08-06.png>)
+
+## Delete a todo
+![alt text](<images/Screenshot from 2024-08-07 23-08-19.png>)
+![alt text](<images/Screenshot from 2024-08-07 23-08-42.png>)
+![alt text](<images/Screenshot from 2024-08-07 23-09-23.png>)
