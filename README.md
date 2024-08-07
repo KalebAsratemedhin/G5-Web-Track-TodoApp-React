@@ -12,6 +12,7 @@ In this project I have used typescript to harness its static type checking capab
   npm install
   npm run dev
 ```
+Then open the provided url with a browser.
 
 ## Add a todo
 ![alt text](<images/Screenshot from 2024-08-07 23-07-21.png>)
