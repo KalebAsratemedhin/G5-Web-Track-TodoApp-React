@@ -8,6 +8,7 @@ In this project I have used typescript to harness its static type checking capab
 ```
   git clone https://github.com/KalebAsratemedhin/G5-Web-Track-TodoApp-React.git
   cd G5-Web-Track-TodoApp-React
+  cd react-todo-app
   npm install
   npm run dev
 ```
