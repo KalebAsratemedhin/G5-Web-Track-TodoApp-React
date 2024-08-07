@@ -16,7 +16,8 @@ const TodoList = ({todos, onDelete, onUpdate, onToggleComplete}: Props) => {
             return <TodoItem key={todo.id} todo={todo} onDelete={onDelete} onUpdate={onUpdate} onToggleComplete={onToggleComplete}/>
           })
         }
-        
+        {!todos.length && <h2>No Tasks yet.</h2> }
+
     </div>
   )
 }

@@ -65,14 +65,13 @@ body {
 
 }
 
-.todo-item-checkbox{
-  background-color: #222222;
-  
+.todo-item-checkbox:enabled:checked{
+  accent-color: #222222;
   
 }
 
 .todo-item-icon{
-  font-size: xx-large;
+  font-size: x-large;
   color: #555555;
 }
 
@@ -86,8 +85,6 @@ body {
   padding: 1rem;
   
 }
-
-
 
 
 .todo-input input{
